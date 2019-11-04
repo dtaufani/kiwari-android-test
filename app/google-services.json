@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932951857509",
+    "firebase_url": "https://kiwari-aba83.firebaseio.com",
+    "project_id": "kiwari-aba83",
+    "storage_bucket": "kiwari-aba83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932951857509:android:7a4952919351bb4521698c",
+        "android_client_info": {
+          "package_name": "com.taufani.kiwari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932951857509-iqegsoqhn04prhirsnn8jv4ep2b0j4i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taufani.kiwari",
+            "certificate_hash": "86b2f7ce7539317776c4f102985314f6faab91dc"
+          }
+        },
+        {
+          "client_id": "932951857509-9eu7v0n4dn7sqc98cpq9kopdc5dbtr4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcygQVdYHM4O9IKFXH8eIMk2z5tNWzRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932951857509-9eu7v0n4dn7sqc98cpq9kopdc5dbtr4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
